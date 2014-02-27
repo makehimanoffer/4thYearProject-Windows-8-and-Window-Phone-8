@@ -1,0 +1,44 @@
+﻿Build started 27/02/2014 13:38:49.
+     1>Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\CocosProject.vcxproj" on node 3 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.exe" /INCREMENTAL:NO /NOLOGO d3d11.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.pdb" /SUBSYSTEM:WINDOWS /LTCG /TLBID:1 /WINMD:NO /WINMDFILE:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /IGNORE:4264 Debug\AppDelegate.obj
+         Debug\HelloWorldScene.obj
+         Debug\CocosProject.obj
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\redist\vs2012\Win32\Debug\libEGL_phone\libEGL_phone.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\redist\vs2012\Win32\Debug\libGLESv2_phone\libGLESv2_phone.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\libcocos2d\libcocos2d.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\libExtensions\libExtensions.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\Box2D\libBox2D.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\chipmunk\libchipmunk.lib"
+     1>AppDelegate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         CocosProject.vcxproj -> C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.exe
+       XapPackager:
+         Begin Xap packaging
+         Creating file CocosProject_Debug_Win32.xap
+         Adding WMAppManifest.xml
+         Adding CocosProject.exe
+         Adding CocosDenshion.winmd
+         Adding CocosDenshion.dll
+         Adding Assets\ApplicationIcon.png
+         Adding Assets\AlignmentGrid.png
+         Adding Assets\Tiles\FlipCycleTileLarge.png
+         Adding Assets\Tiles\FlipCycleTileMedium.png
+         Adding Assets\Tiles\FlipCycleTileSmall.png
+         Adding Assets\Tiles\IconicTileMediumLarge.png
+         Adding Assets\Tiles\IconicTileSmall.png
+         Adding Assets\Resources\CloseNormal.png
+         Adding Assets\Resources\CloseSelected.png
+         Adding Assets\Resources\fonts\arial.ttf
+         Adding Assets\Resources\fonts\Marker Felt.ttf
+         Adding Assets\Resources\HelloWorld.png
+         Adding libEGL_phone.dll
+         Adding libGLESv2_phone.dll
+         Adding libcocos2d.dll
+         Xap packaging completed successfully
+     1>Done Building Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\CocosProject\proj.wp8\CocosProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.72
