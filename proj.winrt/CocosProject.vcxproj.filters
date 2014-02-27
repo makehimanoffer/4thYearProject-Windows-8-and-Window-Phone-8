@@ -25,6 +25,9 @@
     <Filter Include="Classes">
       <UniqueIdentifier>{97c3b83c-49c5-4c12-b313-2ad896c789fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Classes\RakNetSource">
+      <UniqueIdentifier>{1b55a1e5-1a18-4ba1-a5e4-d627a068588a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml" />
@@ -39,6 +42,9 @@
     <ClCompile Include="..\Classes\HelloWorldScene.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\RakNet\DependentExtensions\WinPhone8\ThreadEmulation.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
@@ -51,6 +57,12 @@
       <Filter>Classes</Filter>
     </ClInclude>
     <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RakNet\DependentExtensions\WinPhone8\ThreadEmulation.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\RakNet\DependentExtensions\WinRT\WinRTSockAddr.h">
       <Filter>Classes</Filter>
     </ClInclude>
   </ItemGroup>
