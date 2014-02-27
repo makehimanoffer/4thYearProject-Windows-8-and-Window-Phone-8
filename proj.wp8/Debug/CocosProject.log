@@ -1,58 +1,7 @@
-﻿Build started 27/02/2014 15:32:42.
-     1>Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\CocosProject.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx\platform\third_party\winrt\angleproject\include" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx\platform\third_party\winrt\angleproject\samples\gles2_book\Common" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx\platform\wp8" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx\include" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx\kazmath\include" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\cocos2dx\platform\winrt" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\external" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\external\chipmunk\include\chipmunk" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\CocosDenshion\include" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\..\..\..\extensions" /I..\Classes /IC:\devtools\RakNet\DependentExtensions\WinPhone8 /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\Classes\RakNetSource" /I"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\\" /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D WP8 /D _WP8 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D WINDOWS_PHONE_8 /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /wd4453 /FU"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.winmd" /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt ..\Classes\RakNetSource\CloudClient.cpp ..\Classes\RakNetSource\CloudServer.cpp ..\Classes\RakNetSource\ConnectionGraph2.cpp ..\Classes\RakNetSource\DirectoryDeltaTransfer.cpp ..\Classes\RakNetSource\DynDNS.cpp ..\Classes\RakNetSource\EmailSender.cpp ..\Classes\RakNetSource\FileListTransfer.cpp ..\Classes\RakNetSource\FullyConnectedMesh2.cpp ..\Classes\RakNetSource\HTTPConnection.cpp ..\Classes\RakNetSource\HTTPConnection2.cpp ..\Classes\RakNetSource\MessageFilter.cpp ..\Classes\RakNetSource\NatPunchthroughClient.cpp ..\Classes\RakNetSource\NatPunchthroughServer.cpp ..\Classes\RakNetSource\NatTypeDetectionClient.cpp ..\Classes\RakNetSource\NatTypeDetectionCommon.cpp ..\Classes\RakNetSource\NatTypeDetectionServer.cpp ..\Classes\RakNetSource\NetworkIDManager.cpp ..\Classes\RakNetSource\PacketizedTCP.cpp ..\Classes\RakNetSource\PacketLogger.cpp ..\Classes\RakNetSource\PluginInterface2.cpp ..\Classes\RakNetSource\Rackspace.cpp ..\Classes\RakNetSource\RakNetCommandParser.cpp ..\Classes\RakNetSource\RakNetSocket2.cpp ..\Classes\RakNetSource\RakNetTransport2.cpp ..\Classes\RakNetSource\RakNetTypes.cpp ..\Classes\RakNetSource\RakPeer.cpp ..\Classes\RakNetSource\RakThread.cpp ..\Classes\RakNetSource\ReadyEvent.cpp ..\Classes\RakNetSource\RelayPlugin.cpp ..\Classes\RakNetSource\ReliabilityLayer.cpp ..\Classes\RakNetSource\ReplicaManager3.cpp ..\Classes\RakNetSource\Router2.cpp ..\Classes\RakNetSource\RPC4Plugin.cpp ..\Classes\RakNetSource\SocketLayer.cpp ..\Classes\RakNetSource\StatisticsHistory.cpp ..\Classes\RakNetSource\TCPInterface.cpp ..\Classes\RakNetSource\TeamBalancer.cpp ..\Classes\RakNetSource\TelnetTransport.cpp ..\Classes\RakNetSource\TwoWayAuthentication.cpp ..\Classes\RakNetSource\UDPForwarder.cpp ..\Classes\RakNetSource\UDPProxyClient.cpp ..\Classes\RakNetSource\UDPProxyCoordinator.cpp ..\Classes\RakNetSource\UDPProxyServer.cpp
-         CloudClient.cpp
-         CloudServer.cpp
-         ConnectionGraph2.cpp
-         DirectoryDeltaTransfer.cpp
-         DynDNS.cpp
-         EmailSender.cpp
-         FileListTransfer.cpp
-         FullyConnectedMesh2.cpp
-         HTTPConnection.cpp
-         HTTPConnection2.cpp
-         MessageFilter.cpp
-         NatPunchthroughClient.cpp
-         NatPunchthroughServer.cpp
-         NatTypeDetectionClient.cpp
-         NatTypeDetectionCommon.cpp
-         NatTypeDetectionServer.cpp
-     1>c:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thyearproject-windows-phone-8\classes\raknetsource\natpunchthroughserver.cpp(236): warning C4018: '<' : signed/unsigned mismatch
-         NetworkIDManager.cpp
-         PacketizedTCP.cpp
-         PacketLogger.cpp
-         PluginInterface2.cpp
-         Rackspace.cpp
-         RakNetCommandParser.cpp
-         RakNetSocket2.cpp
-         RakNetTransport2.cpp
-         RakNetTypes.cpp
-         RakPeer.cpp
-         RakThread.cpp
-         ReadyEvent.cpp
-         RelayPlugin.cpp
-         ReliabilityLayer.cpp
-         ReplicaManager3.cpp
-     1>c:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thyearproject-windows-phone-8\classes\raknetsource\rakpeer.cpp(421): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thyearproject-windows-phone-8\classes\raknetsource\rakpeer.cpp(569): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thyearproject-windows-phone-8\classes\raknetsource\rakpeer.cpp(614): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thyearproject-windows-phone-8\classes\raknetsource\rakpeer.cpp(720): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thyearproject-windows-phone-8\classes\raknetsource\rakpeer.cpp(725): warning C4018: '<' : signed/unsigned mismatch
-         Router2.cpp
-         RPC4Plugin.cpp
-         SocketLayer.cpp
-         StatisticsHistory.cpp
-         TCPInterface.cpp
-         TeamBalancer.cpp
-         TelnetTransport.cpp
-         TwoWayAuthentication.cpp
-         UDPForwarder.cpp
-         UDPProxyClient.cpp
-         UDPProxyCoordinator.cpp
-         UDPProxyServer.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.exe" /INCREMENTAL:NO /NOLOGO d3d11.lib ws2_32.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.pdb" /SUBSYSTEM:WINDOWS /LTCG /TLBID:1 /WINMD:NO /WINMDFILE:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /IGNORE:4264 Debug\ThreadEmulation.obj
+﻿Build started 27/02/2014 16:37:31.
+     1>Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\CocosProject.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.exe" /INCREMENTAL:NO /NOLOGO d3d11.lib ws2_32.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.pdb" /SUBSYSTEM:WINDOWS /LTCG /TLBID:1 /WINMD:NO /WINMDFILE:"C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /IGNORE:4264 Debug\ThreadEmulation.obj
          Debug\AppDelegate.obj
          Debug\HelloWorldScene.obj
          Debug\Base64Encoder.obj
@@ -166,16 +115,16 @@
          Debug\WSAStartupSingleton.obj
          Debug\_FindFirst.obj
          Debug\CocosProject.obj
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\redist\vs2012\Win32\Debug\libEGL_phone\libEGL_phone.lib"
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\redist\vs2012\Win32\Debug\libGLESv2_phone\libGLESv2_phone.lib"
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\libcocos2d\libcocos2d.lib"
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.lib"
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\libExtensions\libExtensions.lib"
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\Box2D\libBox2D.lib"
-         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\chipmunk\libchipmunk.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\redist\vs2012\Win32\Debug\libEGL_phone\libEGL_phone.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\redist\vs2012\Win32\Debug\libGLESv2_phone\libGLESv2_phone.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\libcocos2d\libcocos2d.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\CocosDenshion\CocosDenshion.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\libExtensions\libExtensions.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\Box2D\libBox2D.lib"
+         "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\chipmunk\libchipmunk.lib"
      1>ThreadEmulation.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
          LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
-         CocosProject.vcxproj -> C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.exe
+         CocosProject.vcxproj -> C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\Win32\Debug\CocosProject\CocosProject.exe
        XapPackager:
          Begin Xap packaging
          Creating file CocosProject_Debug_Win32.xap
@@ -200,8 +149,8 @@
          Adding libGLESv2_phone.dll
          Adding libcocos2d.dll
          Xap packaging completed successfully
-     1>Done Building Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-Phone-8\proj.wp8\CocosProject.vcxproj" (Build target(s)).
+     1>Done Building Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\CocosProject.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:15.62
+Time Elapsed 00:00:04.22
