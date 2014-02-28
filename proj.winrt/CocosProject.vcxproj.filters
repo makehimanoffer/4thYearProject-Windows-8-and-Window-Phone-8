@@ -42,7 +42,7 @@
     <ClCompile Include="..\Classes\HelloWorldScene.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\RakNet\DependentExtensions\WinPhone8\ThreadEmulation.cpp">
+    <ClCompile Include="..\..\..\..\..\RakNet\DependentExtensions\WinPhone8\ThreadEmulationWin8.cpp">
       <Filter>Classes</Filter>
     </ClCompile>
   </ItemGroup>

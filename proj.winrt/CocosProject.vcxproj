@@ -264,7 +264,7 @@
     <Image Include="Assets\WideLogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\RakNet\DependentExtensions\WinPhone8\ThreadEmulation.cpp" />
+    <ClCompile Include="..\..\..\..\..\RakNet\DependentExtensions\WinPhone8\ThreadEmulationWin8.cpp" />
     <ClCompile Include="..\Classes\AppDelegate.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">

@@ -379,6 +379,9 @@
     <ClCompile Include="..\Classes\RakNetSource\WSAStartupSingleton.cpp">
       <Filter>Classes\RakNetSource</Filter>
     </ClCompile>
+    <ClCompile Include="..\Classes\ThreadEmulation.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CocosProject.h" />
@@ -855,6 +858,9 @@
     </ClInclude>
     <ClInclude Include="..\Classes\RakNetSource\XBox360Includes.h">
       <Filter>Classes\RakNetSource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ThreadEmulation.h">
+      <Filter>Classes</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
