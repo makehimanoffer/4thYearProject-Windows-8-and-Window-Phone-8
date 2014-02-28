@@ -1,0 +1,12 @@
+﻿Build started 28/02/2014 15:14:44.
+     1>Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\CocosProject.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         CocosProject.vcxproj -> C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\ARM\Debug\CocosProject\CocosProject.exe
+       XapPackager:
+         Begin Xap packaging
+         No changes detected. Xap package is up to date
+     1>Done Building Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\CocosProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.58

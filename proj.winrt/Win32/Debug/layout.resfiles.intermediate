@@ -1,0 +1,17 @@
+D3Dcompiler_46.dll
+CMakeLists.txt
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+Assets\WideLogo.png
+App.xaml
+Common\StandardStyles.xaml
+MainPage.xaml
+Assets\Resources\ButtonHit.png
+Assets\Resources\ButtonNormal.png
+Assets\Resources\CloseNormal.png
+Assets\Resources\CloseSelected.png
+Assets\Resources\fonts\arial.ttf
+Assets\Resources\fonts\Marker Felt.ttf
+Assets\Resources\HelloWorld.png

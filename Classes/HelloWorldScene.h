@@ -2,6 +2,18 @@
 #define __HELLOWORLD_SCENE_H__
 
 #include "cocos2d.h"
+#include "ThreadEmulation.h"
+#include <stdio.h>
+
+#include "RakPeerInterface.h"
+
+#include "RakNetTypes.h"
+#include "MessageIdentifiers.h"
+#include "BitStream.h"
+#define MAX_CLIENTS 10
+#define SERVER_PORT 60000
+
+
 
 class HelloWorld : public cocos2d::CCLayer
 {
@@ -17,6 +29,11 @@ public:
     
     // implement the "static node()" method manually
     CREATE_FUNC(HelloWorld);
+	void update();
+	char str[512];
+	RakNet::RakPeerInterface *peer;
+	RakNet::Packet *packet;
+	void printDataMessages(char);
 };
 
 #endif // __HELLOWORLD_SCENE_H__
