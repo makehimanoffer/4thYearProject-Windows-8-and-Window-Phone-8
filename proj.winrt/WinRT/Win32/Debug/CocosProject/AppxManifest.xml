@@ -26,12 +26,15 @@
         <DefaultTile ShowName="allLogos" WideLogo="Assets\WideLogo.png" />
         <SplashScreen Image="Assets\SplashScreen.png" />
         <InitialRotationPreference>
-          <Rotation Preference="landscape" />
+          <Rotation Preference="portrait" />
+          <Rotation Preference="portraitFlipped" />
         </InitialRotationPreference>
       </VisualElements>
     </Application>
   </Applications>
   <Capabilities>
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
     <Capability Name="internetClient" />
   </Capabilities>
   <Dependencies>

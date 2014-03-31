@@ -5,7 +5,7 @@
     <WindowsUser>david</WindowsUser>
     <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <RegisteredManifestChecksum>E936CC52E820F612A2ECD036940DFABDC65E41832BCBE4D4917B7C8913CF3F4F</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>7CCA0CFF8A3F2A1871DBC2CAA85178B825B54CBB389ADE929C735639F4DFFC89</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>16A6CBD7-44EF-4BD8-8ED6-D6D037B23B93_2.2.0.0_x86__m9k0q4hvj1fvp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>16A6CBD7-44EF-4BD8-8ED6-D6D037B23B93_m9k0q4hvj1fvp!App</RegisteredUserModeAppID>
     <RegisteredPackageID>16A6CBD7-44EF-4BD8-8ED6-D6D037B23B93</RegisteredPackageID>
@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-28T15:11:59.658</Modified>
+      <Modified>2014-03-29T11:35:29.557</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.exe">
       <PackagePath>CocosProject.exe</PackagePath>
-      <Modified>2014-02-28T15:13:09.667</Modified>
+      <Modified>2014-03-29T15:13:34.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.pdb">
       <PackagePath>CocosProject.pdb</PackagePath>
-      <Modified>2014-02-28T15:13:10.083</Modified>
+      <Modified>2014-03-29T15:13:34.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\redist\vs2012\Win32\Debug\libEGL_winrt\libEGL.pdb">
       <PackagePath>libEGL.pdb</PackagePath>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.winmd">
       <PackagePath>CocosProject.winmd</PackagePath>
-      <Modified>2014-02-28T15:13:03.320</Modified>
+      <Modified>2014-03-29T15:13:27.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Classes\RakNetSource\CMakeLists.txt">
       <PackagePath>CMakeLists.txt</PackagePath>
@@ -77,6 +77,22 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-02-27T15:51:55.159</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButton.png">
+      <PackagePath>Assets\Resources\blueButton.png</PackagePath>
+      <Modified>2014-03-12T01:23:42.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButtonHit.png">
+      <PackagePath>Assets\Resources\blueButtonHit.png</PackagePath>
+      <Modified>2014-03-12T01:24:02.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButtonSmaller.png">
+      <PackagePath>Assets\Resources\blueButtonSmaller.png</PackagePath>
+      <Modified>2014-03-03T23:13:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\blueButtonSmallerHit.png</PackagePath>
+      <Modified>2014-03-03T23:13:12.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\ButtonHit.png">
       <PackagePath>Assets\Resources\ButtonHit.png</PackagePath>
       <Modified>2014-02-03T21:47:31.000</Modified>
@@ -85,29 +101,113 @@
       <PackagePath>Assets\Resources\ButtonNormal.png</PackagePath>
       <Modified>2014-02-03T21:46:37.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\BuzzerButton.png">
+      <PackagePath>Assets\Resources\BuzzerButton.png</PackagePath>
+      <Modified>2014-03-03T21:43:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\BuzzerButtonSmaller.png">
+      <PackagePath>Assets\Resources\BuzzerButtonSmaller.png</PackagePath>
+      <Modified>2014-03-03T22:12:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\BuzzerButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\BuzzerButtonSmallerHit.png</PackagePath>
+      <Modified>2014-03-03T22:34:01.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\CloseNormal.png">
       <PackagePath>Assets\Resources\CloseNormal.png</PackagePath>
-      <Modified>2014-02-27T15:51:55.130</Modified>
+      <Modified>2013-09-21T15:45:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\CloseSelected.png">
       <PackagePath>Assets\Resources\CloseSelected.png</PackagePath>
-      <Modified>2014-02-27T15:51:55.130</Modified>
+      <Modified>2013-09-21T15:45:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButton.png">
+      <PackagePath>Assets\Resources\greenButton.png</PackagePath>
+      <Modified>2014-03-12T01:26:54.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButtonHit.png">
+      <PackagePath>Assets\Resources\greenButtonHit.png</PackagePath>
+      <Modified>2014-03-12T01:26:41.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButtonSmaller.png">
+      <PackagePath>Assets\Resources\greenButtonSmaller.png</PackagePath>
+      <Modified>2014-03-03T22:26:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\greenButtonSmallerHit.png</PackagePath>
+      <Modified>2014-03-03T22:27:36.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\HelloWorld.png">
       <PackagePath>Assets\Resources\HelloWorld.png</PackagePath>
-      <Modified>2014-02-27T15:51:55.132</Modified>
+      <Modified>2013-09-21T15:45:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButton.png">
+      <PackagePath>Assets\Resources\purpleButton.png</PackagePath>
+      <Modified>2014-03-12T01:25:22.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButtonHit.png">
+      <PackagePath>Assets\Resources\purpleButtonHit.png</PackagePath>
+      <Modified>2014-03-12T01:25:40.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButtonSmaller.png">
+      <PackagePath>Assets\Resources\purpleButtonSmaller.png</PackagePath>
+      <Modified>2014-03-03T23:13:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\purpleButtonSmallerHit.png</PackagePath>
+      <Modified>2014-03-03T23:14:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButton.png">
+      <PackagePath>Assets\Resources\redButton.png</PackagePath>
+      <Modified>2014-03-12T01:24:32.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButtonHit.png">
+      <PackagePath>Assets\Resources\redButtonHit.png</PackagePath>
+      <Modified>2014-03-12T01:24:17.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButtonSmaller.png">
+      <PackagePath>Assets\Resources\redButtonSmaller.png</PackagePath>
+      <Modified>2014-03-03T23:10:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\redButtonSmallerHit.png</PackagePath>
+      <Modified>2014-03-03T23:10:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\cocos2dx\platform\third_party\winrt\libraries\vs2012\Win32\D3Dcompiler_46.dll">
       <PackagePath>D3Dcompiler_46.dll</PackagePath>
       <Modified>2014-01-08T14:53:20.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blue.wav">
+      <PackagePath>Assets\Resources\blue.wav</PackagePath>
+      <Modified>2014-03-03T23:46:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\buzzer.wav">
+      <PackagePath>Assets\Resources\buzzer.wav</PackagePath>
+      <Modified>2014-03-03T23:46:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\green.wav">
+      <PackagePath>Assets\Resources\green.wav</PackagePath>
+      <Modified>2014-03-03T23:46:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purple.wav">
+      <PackagePath>Assets\Resources\purple.wav</PackagePath>
+      <Modified>2014-03-03T23:47:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\red.wav">
+      <PackagePath>Assets\Resources\red.wav</PackagePath>
+      <Modified>2014-03-03T23:46:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\buzzerFull.jpg">
+      <PackagePath>Assets\Resources\buzzerFull.jpg</PackagePath>
+      <Modified>2014-03-03T21:39:27.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\fonts\arial.ttf">
       <PackagePath>Assets\Resources\fonts\arial.ttf</PackagePath>
-      <Modified>2014-02-27T15:51:55.147</Modified>
+      <Modified>2014-01-08T14:53:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\fonts\Marker Felt.ttf">
       <PackagePath>Assets\Resources\fonts\Marker Felt.ttf</PackagePath>
-      <Modified>2014-02-27T15:51:55.135</Modified>
+      <Modified>2013-09-21T15:45:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\App.xaml">
       <PackagePath>App.xaml</PackagePath>
@@ -139,7 +239,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-02-28T15:11:59.513</Modified>
+      <Modified>2014-03-29T11:35:29.441</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -2,12 +2,15 @@
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.lib
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.exp
 ^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.h
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlLibMetadataProvider.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlTypeInfo.Impl.g.cpp
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
@@ -36,6 +39,139 @@ C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-an
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.lib
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.exp
 ^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlLibMetadataProvider.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlTypeInfo.Impl.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlTypeInfo.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxproj.GenerateResource.Cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\priconfig.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\layout.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\resources.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\pri.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\resources.pri
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\LanguageQualifiers.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\ProjectArchitectures.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\AppxManifest.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.build.appxrecipe
+^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlLibMetadataProvider.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlTypeInfo.Impl.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\XamlTypeInfo.g.cpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxproj.GenerateResource.Cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\priconfig.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\layout.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\resources.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\pri.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\resources.pri
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\LanguageQualifiers.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\ProjectArchitectures.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\AppxManifest.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.build.appxrecipe
+^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxproj.GenerateResource.Cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\priconfig.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\layout.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\resources.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\pri.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\resources.pri
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\LanguageQualifiers.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\ProjectArchitectures.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\AppxManifest.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.build.appxrecipe
+^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxproj.GenerateResource.Cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\priconfig.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\layout.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\resources.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\pri.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\resources.pri
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\LanguageQualifiers.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\ProjectArchitectures.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\AppxManifest.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.build.appxrecipe
+^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.h
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.xaml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\MainPage.g.hpp
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxproj.GenerateResource.Cache
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\priconfig.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\layout.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\resources.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\pri.resfiles
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\resources.pri
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\LanguageQualifiers.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\ProjectArchitectures.txt
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\AppxManifest.xml
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\WinRT\Win32\Debug\CocosProject\CocosProject.build.appxrecipe
+^C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\CocosProject.vcxproj
+C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Win32\Debug\CocosProject.vcxprojResolveAssemblyReference.cache
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.h
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\App.g.hpp
 C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.winrt\Generated Files\Common\StandardStyles.g.h

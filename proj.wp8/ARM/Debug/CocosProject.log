@@ -1,4 +1,4 @@
-﻿Build started 28/02/2014 15:14:44.
+﻿Build started 29/03/2014 15:09:44.
      1>Project "C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\CocosProject.vcxproj" on node 2 (Build target(s)).
      1>Link:
          CocosProject.vcxproj -> C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\proj.wp8\WP8\ARM\Debug\CocosProject\CocosProject.exe
@@ -9,4 +9,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.58
+Time Elapsed 00:00:00.51

@@ -57,11 +57,32 @@
       <PackagePath>Assets\WideLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButton.png">
+      <PackagePath>Assets\Resources\blueButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButtonHit.png">
+      <PackagePath>Assets\Resources\blueButtonHit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButtonSmaller.png">
+      <PackagePath>Assets\Resources\blueButtonSmaller.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blueButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\blueButtonSmallerHit.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\ButtonHit.png">
       <PackagePath>Assets\Resources\ButtonHit.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\ButtonNormal.png">
       <PackagePath>Assets\Resources\ButtonNormal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\BuzzerButton.png">
+      <PackagePath>Assets\Resources\BuzzerButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\BuzzerButtonSmaller.png">
+      <PackagePath>Assets\Resources\BuzzerButtonSmaller.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\BuzzerButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\BuzzerButtonSmallerHit.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\CloseNormal.png">
       <PackagePath>Assets\Resources\CloseNormal.png</PackagePath>
@@ -69,11 +90,65 @@
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\CloseSelected.png">
       <PackagePath>Assets\Resources\CloseSelected.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButton.png">
+      <PackagePath>Assets\Resources\greenButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButtonHit.png">
+      <PackagePath>Assets\Resources\greenButtonHit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButtonSmaller.png">
+      <PackagePath>Assets\Resources\greenButtonSmaller.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\greenButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\greenButtonSmallerHit.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\HelloWorld.png">
       <PackagePath>Assets\Resources\HelloWorld.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButton.png">
+      <PackagePath>Assets\Resources\purpleButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButtonHit.png">
+      <PackagePath>Assets\Resources\purpleButtonHit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButtonSmaller.png">
+      <PackagePath>Assets\Resources\purpleButtonSmaller.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purpleButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\purpleButtonSmallerHit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButton.png">
+      <PackagePath>Assets\Resources\redButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButtonHit.png">
+      <PackagePath>Assets\Resources\redButtonHit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButtonSmaller.png">
+      <PackagePath>Assets\Resources\redButtonSmaller.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\redButtonSmallerHit.png">
+      <PackagePath>Assets\Resources\redButtonSmallerHit.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\cocos2dx\platform\third_party\winrt\libraries\vs2012\Win32\D3Dcompiler_46.dll">
       <PackagePath>D3Dcompiler_46.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\blue.wav">
+      <PackagePath>Assets\Resources\blue.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\buzzer.wav">
+      <PackagePath>Assets\Resources\buzzer.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\green.wav">
+      <PackagePath>Assets\Resources\green.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\purple.wav">
+      <PackagePath>Assets\Resources\purple.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\red.wav">
+      <PackagePath>Assets\Resources\red.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\buzzerFull.jpg">
+      <PackagePath>Assets\Resources\buzzerFull.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\devtools\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\4thYearProject-Windows-8-and-Window-Phone-8\Resources\fonts\arial.ttf">
       <PackagePath>Assets\Resources\fonts\arial.ttf</PackagePath>
